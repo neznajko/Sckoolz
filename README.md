@@ -1,9 +1,9 @@
 ## Sckoolz
 
-ŦĦİś Ƥŕŏƀļēℳ  │℥ Åℬℴ⑊┳ ∀ ℕℭℸ⑅⌀⋎K Ⓞƒ ⑀℃⋌∅∘∖ℤ, ▼⌘↾∁≠ ☪àɴ share
-software among them according to some agreement. In the 
-[text](https://ioinformatics.org/files/ioi1996problem3.pdf)
-are given five sckoolz as an example:
+ŦĦİś Ƥŕŏƀļēℳ  │℥ Åℬℴ⑊┳ ∀ ℕℭℸ⑅⌀⋎K Ⓞƒ ⑀℃⋌∅∘∖ℤ, ▼⌘↾∁≠ ☪àɴ ʂƕǎʁℯ
+ѯѻʄʈωΆѓέ ąmong Ŧhem ɐccording Եo ζome Àgreement. Ìn Ʈhe 
+[ƫext](https://ioinformatics.org/files/ioi1996problem3.pdf)
+ⓐre ℊiven Ⅎive ℨckoolz Ås ɑn ℰxample:
 
 ```Python
 A -> B C D      Here A gives piratee coppies off Windows 7 to B, C and D,
